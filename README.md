@@ -14,9 +14,10 @@ The use of the code is quite easy to follow. There are three options for this pr
 ![](images/Execute.png) 
 
 As you can see, _Option 1_ requires from the user,
-firstly to press #1 in order to start that option. After pressing #1 and enter, it will be required to insert a 32 bit binary IP address in order to covert it into decimal form.
+firstly to press #1 in order to start that option. After pressing #1 and enter, it will be required to insert a 32 bit binary IP address in order to covert it into decimal form,as displayed in the image bellow.
 
-![](images/option1.png)
+![](images/images/option1.png)
+
 
 ## Credits
 
