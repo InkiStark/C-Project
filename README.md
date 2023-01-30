@@ -9,7 +9,14 @@ After having a compiler, next step would be to copy the code and paste it into y
 
 ## Usage
 
-![]()
+The use of the code is quite easy to follow. There are three options for this project for the user to decide.
+
+![](images/Execute.png) 
+
+As you can see, _Option 1_ requires from the user,
+firstly to press #1 in order to start that option. After pressing #1 and enter, it will be required to insert a 32 bit binary IP address in order to covert it into decimal form.
+
+![](images/option1.png)
 
 ## Credits
 
