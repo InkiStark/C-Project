@@ -1,4 +1,4 @@
-# < IP address convert to binary and vice versa >
+# < IP converter >
 
 ## Description 
 
