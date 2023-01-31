@@ -115,7 +115,11 @@ int main() {
     char temp[80];
 
 do {
-
+    printf("*==================================*\n");
+	 printf("*        IP Converter              *\n");
+	 printf("*         Created by               *\n");
+	 printf("* InkiStark-ThTsiavos-PortalWinter *\n");
+	 printf("*==================================*\n");
     printf("\nSelect from one of the choices:\n\n");
     printf("1) Convert from 32 bit binary ip form to dotted decimal ip from\n");
     printf("2) Convert from dotted decimal ip form to 32 bit binary ip from\n");
