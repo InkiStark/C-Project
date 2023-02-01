@@ -14,7 +14,6 @@ int len;
 
 //read line
 printf("Enter 32-bit Ip address in binary form (xxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxx): ");
-fflush(stdout); // flashes the output, it is needed on some version of linux/unix before scanf
 scanf("%[^\r\n]", binString);
 
 //store binary digits int bin array
@@ -115,7 +114,7 @@ int main() {
     char temp[80];
 
 do {
-    printf("*==================================*\n");
+         printf("*==================================*\n");
 	 printf("*        IP Converter              *\n");
 	 printf("*         Created by               *\n");
 	 printf("* InkiStark-ThTsiavos-PortalWinter *\n");
@@ -125,7 +124,6 @@ do {
     printf("2) Convert from dotted decimal ip form to 32 bit binary ip from\n");
     printf("3) Quit the program\n");
     printf("\nEnter your choice: ");
-    fflush(stdout);
     scanf("%d", &choice);
     scanf("%[^\n]", temp);
     scanf("%c", temp);
