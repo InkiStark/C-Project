@@ -50,22 +50,25 @@ Free to use.
 
 ## Tests
 
-Testing
-In order to verify the functionality of the application, we used the following scenarios, resulting in a successful pass for all
+
++ In order to verify the functionality of the application, we used the following scenarios, resulting in a successful pass for all
 Case 1 – IP conversion - The user inputs an IP address following the specified format,
-expected behavior is to return an IP from the opposite form and show the expected text
+expected behavior is to return an IP from the opposite form and show the expected text:
+
 IP1: 192.168.3.1, IP2: 10.24.20.20, IP3: 0.0.0.0
 IP4: 10111100 11101100 00001111 00000001
 IP5:00001111 10101010 01010101 11111111
 a)    Decimal to Binary -   Result = All Pass
 b)    Binary to Decimal –    Result = All Pass
-Case 2 – Menu – The user chooses a menu from the specified options and an invalid option which is a number , a symbol and an alphabet as well as combinations of all.
+
++ Case 2 – Menu – The user chooses a menu from the specified options and an invalid option which is a number , a symbol and an alphabet as well as combinations of all.
 Expected behavior is to show text:
 A) “Enter 32-bit IP address in dotted decimal notation(...):” if input is 1 – Result = Pass
 B) “Enter 32-bit Ip address in binary form (xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx): "if input is 2 – Result = Pass
 C) "I don't know the option “if input is anything else Result = Fail – the choice number was shown incorrectly (Changed the code to show “I don’t know this option “instead
 D) ”Quit the program: if option 3 and close the application– Result = Pass
-Case 3 – Invalid user inputs after the initial menu choice – Expected Behavior is to show the correct error messages
+
++ Case 3 – Invalid user inputs after the initial menu choice – Expected Behavior is to show the correct error messages
 A)    Option 2 – Decimal to Binary – 
 i)The user inputs an invalid number, alphabet or symbol – Result = Fail (No error message, no escape sequence, program crashed)
 ii)The user inputs a number in invalid size (too short, too long) – Result = Pass
