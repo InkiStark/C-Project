@@ -55,11 +55,13 @@ Free to use.
 Case 1 – IP conversion - The user inputs an IP address following the specified format,
 expected behavior is to return an IP from the opposite form and show the expected text:
 
-IP1: 192.168.3.1, IP2: 10.24.20.20, IP3: 0.0.0.0
-IP4: 10111100 11101100 00001111 00000001
-IP5:00001111 10101010 01010101 11111111
-a)    Decimal to Binary -   Result = All Pass
-b)    Binary to Decimal –    Result = All Pass
+<ul>
+<li>IP1: 192.168.3.1</li> <li>IP2: 10.24.20.20</li> <li>IP3: 0.0.0.0</li>
+<li>IP4: 10111100 11101100 00001111 00000001</li>
+<li>IP5:00001111 10101010 01010101 11111111</li>
+<li>a)    Decimal to Binary -   Result = All Pass</li>
+<li>b)    Binary to Decimal –    Result = All Pass</li>
+</ul>      
 
 + Case 2 – Menu – The user chooses a menu from the specified options and an invalid option which is a number , a symbol and an alphabet as well as combinations of all.
 Expected behavior is to show text:
