@@ -2,8 +2,10 @@
 
 ## Description 
 
-‘Ip converter’ is an application made in C language that allows the user to convert an IP address in decimal form to binary and vice versa. The program accepts only an IP in a specified format which is xxx.xxx.xxx.xxx containing numbers from 0 to 255 while in decimal and xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx allowing 0 and 1 only while in binary format.
-It is an academic project made for educational purposes , aiming to be a very useful and easy tool both for students and network professionals. Also as the code is freely distributable we hope that it will be a good learning experience for beginners or anyone wishing to have a taste of programming on a basic level
+_‘Ip converter’_ is an application made in C language that allows the user to convert an IP address in decimal form to binary and vice versa.<br>
+The program accepts only an IP in a specified format which is xxx.xxx.xxx.xxx containing numbers from 0 to 255 while in decimal and xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx allowing 0 and 1 only while in binary format.<br>
+It is an academic project made for educational purposes , aiming to be a very useful and easy tool both for students and network professionals.<br> 
+Also as the code is freely distributable we hope that it will be a good learning experience for beginners or anyone wishing to have a taste of programming on a basic level.<br>
 
 ## Instalation
 
