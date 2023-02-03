@@ -44,6 +44,8 @@ Authors names : InkiStark,ThTsiavos,PortalWinter
 
 ## License 
 
+Free to use.
+
 ## Badges
 
 ## Tests
