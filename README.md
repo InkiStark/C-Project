@@ -35,6 +35,13 @@ firstly to press #1 in order to start that option. After pressing #1 and enter, 
 
 ## Credits
 
+Authors names : InkiStark,ThTsiavos,PortalWinter 
+- Date : 03/02/2023
+- Title of program/source code : IP converter
+- Code version :
+- Type : Source code
+- Web address or publisher (We don't have one)
+
 ## License 
 
 ## Badges
