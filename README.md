@@ -40,15 +40,13 @@ firstly to press #1 in order to start that option. After pressing #1 and enter, 
 Authors names : InkiStark,ThTsiavos,PortalWinter 
 - Date : 03/02/2023
 - Title of program/source code : IP converter
-- Code version :
+- Code version : 1.0.5
 - Type : Source code
 - Web address or publisher (We don't have one)
 
 ## License 
 
 Free to use.
-
-## Badges
 
 ## Tests
 
