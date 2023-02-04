@@ -74,11 +74,11 @@ expected behavior is to return an IP from the opposite form and show the expecte
 </ul>      
 
 + Case 2 – Menu – The user chooses a menu from the specified options and an invalid option which is a number , a symbol and an alphabet as well as combinations of all.
-Expected behavior is to show text:
-A) “Enter 32-bit IP address in dotted decimal notation(...):” if input is 1 – Result = Pass
-B) “Enter 32-bit Ip address in binary form (xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx): "if input is 2 – Result = Pass
-C) "I don't know the option “if input is anything else Result = Fail – the choice number was shown incorrectly (Changed the code to show “I don’t know this option “instead
-D) ”Quit the program: if option 3 and close the application– Result = Pass
+Expected behavior is to show text:<br>
+A) “Enter 32-bit IP address in dotted decimal notation(...):” if input is 1 – Result = Pass<br>
+B) “Enter 32-bit Ip address in binary form (xxxxxxxx.xxxxxxxx.xxxxxxxx.xxxxxxxx): "if input is 2 – Result = Pass<br>
+C) "I don't know the option “if input is anything else Result = Fail – the choice number was shown incorrectly (Changed the code to show “I don’t know this option “instead.<br>
+D) ”Quit the program: if option 3 and close the application– Result = Pass<br>
 
 + Case 3 – Invalid user inputs after the initial menu choice – Expected Behavior is to show the correct error messages
 A)    Option 2 – Decimal to Binary – 
