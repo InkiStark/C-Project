@@ -207,3 +207,5 @@ ii)The user inputs a number in invalid size (too short, too long) – Result = P
       B)Option 2 – Binary to Decimal –
 I)The user inputs a number that is not 1 or 2 ,and also an alphabet or symbol – Result = Pass
 ii)The user input a binary number of invalid size – Result = Fail (A 9 digit number was accepted and result was returned)
+
+![case2](https://user-images.githubusercontent.com/116667541/216772332-4425044a-7c43-48b9-b076-15da1cf99c18.png)
