@@ -51,14 +51,19 @@ Free to use.
 ## Tests
 
 
-+ In order to verify the functionality of the application, we used the following scenarios, resulting in a successful pass for all
-Case 1 – IP conversion - The user inputs an IP address following the specified format,
+In order to verify the functionality of the application, we used the following scenarios, resulting in a successful pass for all.
+
++ Case 1 – IP conversion - The user inputs an IP address following the specified format,
 expected behavior is to return an IP from the opposite form and show the expected text:
 
 <ul>
 <li>IP1: 192.168.3.1</li> <li>IP2: 10.24.20.20</li> <li>IP3: 0.0.0.0</li>
+![test1](https://user-images.githubusercontent.com/116667541/216768367-6049b6ac-2c71-484e-a8f3-f719d7c0f26f.png)
+
 <li>IP4: 10111100 11101100 00001111 00000001</li>
+![test3](https://user-images.githubusercontent.com/116667541/216768727-934d5d8a-7159-4d41-ae0a-e9501c81fc20.png)
 <li>IP5:00001111 10101010 01010101 11111111</li>
+![test2](https://user-images.githubusercontent.com/116667541/216768471-348a66c1-0797-4275-9055-9bb16ee069e8.png)
 <li>a)    Decimal to Binary -   Result = All Pass</li>
 <li>b)    Binary to Decimal –    Result = All Pass</li>
 </ul>      
